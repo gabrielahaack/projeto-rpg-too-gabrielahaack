@@ -1,4 +1,4 @@
-from enum import Enum
+
 
 class ClasseHeroi(Enum):
     GUERREIRO = "Guerreiro"
